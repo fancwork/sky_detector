@@ -3,7 +3,7 @@
 
 This repository contains a Python script implementing a simple sky detection algorithm using Gradio and OpenCV for image processing. The algorithm takes an input image, detects the sky region, and isolates it from the rest of the image.
 
-This project was created for Lab 1 of the CS5330 Pattern Recognition and Computer Vision class, focusing on Sky Pixel Identification in Images through Traditional Computer Vision Techniques.
+This project was created for Lab 1 of the CS5330 Pattern Recognition and Computer Vision class, focusing on sky pixel identification in images through traditional computer vision techniques.
 
 ## Output Example
 ![Screenshot of output example of the sky detector](https://github.com/fancwork/sky_detector/blob/main/output_example.jpg)
