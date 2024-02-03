@@ -1,7 +1,9 @@
 # Sky Detector
+**Live Gradio App Link: [Sky Detector](https://huggingface.co/spaces/fancwork/sky_detector)**
+
 This repository contains a Python script implementing a simple sky detection algorithm using Gradio and OpenCV for image processing. The algorithm takes an input image, detects the sky region, and isolates it from the rest of the image.
 
-**Live Gradio App Link: [Sky Detector](https://huggingface.co/spaces/fancwork/sky_detector)**
+This project was created for Lab 1 of the CS5330 Pattern Recognition and Computer Vision class, focusing on Sky Pixel Identification in Images through Traditional Computer Vision Techniques.
 
 ## Output Example
 ![Screenshot of output example of the sky detector](https://github.com/fancwork/sky_detector/blob/main/output_example.jpg)
